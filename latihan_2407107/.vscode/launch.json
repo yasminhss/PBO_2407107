@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Tugas2_2407107.Main",
+            "projectName": "latihan_2407107_81b5ceaf"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Tugas.Tugas1_2407107.Main",
             "projectName": "latihan_2407107_81b5ceaf"
         },

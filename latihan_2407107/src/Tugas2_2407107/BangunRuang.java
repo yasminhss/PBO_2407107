@@ -3,19 +3,9 @@ package Tugas2_2407107;
 public class BangunRuang extends BangunDatar {
     private double tinggi;
 
-    // con
+    // constructor
     public BangunRuang(double panjang, double lebar, double tinggi) {
-        super(panjang, lebar); // ambil dari parent
-        this.tinggi = tinggi;
-    }
-
-    // getter
-    public double getTinggi() {
-        return tinggi;
-    }
-
-    // setter
-    public void setTinggi(double tinggi) {
+        super(panjang, lebar);
         this.tinggi = tinggi;
     }
 

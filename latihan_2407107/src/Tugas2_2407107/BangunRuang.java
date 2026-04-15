@@ -9,6 +9,11 @@ public class BangunRuang extends BangunDatar {
         this.tinggi = tinggi;
     }
 
+    @Override
+    public double hitungLuas () {
+        return getPanjang() * getLebar();
+    } 
+
     // method hitung volume
     public double hitungVolume() {
         return hitungLuas() * tinggi;

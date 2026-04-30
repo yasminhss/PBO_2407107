@@ -2,6 +2,7 @@ package latihan_pbo.Tugas3_2407107;
 
 public class PersegiPanjang extends BangunDatar {
 
+    //parameter 'panjang,lebar'
     public PersegiPanjang(double panjang, double lebar) {
         super(panjang, lebar);
     }

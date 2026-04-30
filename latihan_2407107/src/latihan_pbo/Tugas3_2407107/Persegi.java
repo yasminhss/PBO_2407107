@@ -2,6 +2,7 @@ package latihan_pbo.Tugas3_2407107;
 
 public class Persegi extends BangunDatar {
 
+    //parameter
     public Persegi(double sisi) {
         super(sisi);
     }

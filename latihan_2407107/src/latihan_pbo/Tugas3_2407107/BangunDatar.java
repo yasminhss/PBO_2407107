@@ -5,6 +5,8 @@ public class BangunDatar {
     protected double varA;
     protected double varB;
 
+    //overloading (dalam 1clas bisa lebih cons/method,"harus berbeda parameter")
+    
     // constructor 2 parameter
     public BangunDatar(double varA, double varB) {
         this.varA = varA;

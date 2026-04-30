@@ -2,6 +2,7 @@ package latihan_pbo.Tugas3_2407107;
 
 public class Segitiga extends BangunDatar {
 
+    //parameter'alas,tinggi
     public Segitiga(double alas, double tinggi) {
         super(alas, tinggi);
     }

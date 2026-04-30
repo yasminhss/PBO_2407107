@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "latihan_pbo.latihan_abstrak.Main",
+            "projectName": "latihan_2407107_81b5ceaf"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "latihan_pbo.Tugas4_2407107.Main",
+            "projectName": "latihan_2407107_81b5ceaf"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "latihan_pbo.Tugas3_2407107.Main",
             "projectName": "latihan_2407107_81b5ceaf"
         },
